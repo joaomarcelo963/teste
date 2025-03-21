@@ -8,10 +8,10 @@ title: "Sobre o Projeto"
 <a href="https://github.com/Veiga-a" target="_blank">
     <img class="profile-img" src="https://github.com/Veiga-a.png" alt="João Victor">
 </a>  
-[GitHub](https://github.com/Veiga-a)
+[Site](https://veiga-a.github.io/site/)
 
 ## Marcelo  
 <a href="https://github.com/Marcelo816" target="_blank">
     <img class="profile-img" src="https://github.com/Marcelo816.png" alt="João Victor">
 </a>  
-[GitHub](https://github.com/Marcelo816)
+[Site](https://marcelo816.github.io/portifolio/)
