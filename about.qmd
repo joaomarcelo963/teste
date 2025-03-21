@@ -1,5 +1,17 @@
 ---
-title: "About"
+title: "Sobre o Projeto"
 ---
 
-About this site
+# Participantes
+
+## João Victor  
+<a href="https://github.com/Veiga-a" target="_blank">
+    <img class="profile-img" src="https://github.com/Veiga-a.png" alt="João Victor">
+</a>  
+[GitHub](https://github.com/Veiga-a)
+
+## Marcelo  
+<a href="https://github.com/Marcelo816" target="_blank">
+    <img class="profile-img" src="https://github.com/Marcelo816.png" alt="João Victor">
+</a>  
+[GitHub](https://github.com/Marcelo816)

@@ -1,1 +1,9 @@
 /* css styles */
+.profile-img {
+    width: 100px; /* Tamanho da imagem */
+    height: 100px; /* Mantém a altura igual à largura para ser um círculo */
+    border-radius: 50%; /* Torna a imagem redonda */
+    object-fit: cover; /* Garante que a imagem preencha o espaço sem distorção */
+    display: block;
+    margin: 10px auto; /* Centraliza a imagem */
+}
