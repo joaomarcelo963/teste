@@ -2,30 +2,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "trabalho",
+    "title": "Projeto",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Este é um site simples sobre nosso projeto em andamento.\n\n\nNosso projeto tem como objetivo [descreva os objetivos do seu projeto aqui]. Estamos documentando nossa jornada e compartilhando nosso progresso regularmente.\n\n\n\n\nJoão Victor - [Função/Responsabilidade]\nMarcelo - [Função/Responsabilidade]"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Sobre o Projeto",
     "section": "",
-    "text": "GitHub\n\n\n\n  \nGitHub"
+    "text": "Site\n\n\n\n  \nSite\n\n\n\nEste é um site para compartilhar informações sobre nosso projeto em andamento.\n\n\n\n[Objetivo 1]\n[Objetivo 2]\n[Objetivo 3]\n\n\n\n\nPara mais informações sobre este projeto, entre em contato conosco através do GitHub."
   },
   {
     "objectID": "about.html#joão-victor",
     "href": "about.html#joão-victor",
     "title": "Sobre o Projeto",
     "section": "",
-    "text": "GitHub"
+    "text": "Site"
   },
   {
     "objectID": "about.html#marcelo",
     "href": "about.html#marcelo",
     "title": "Sobre o Projeto",
     "section": "",
-    "text": "GitHub"
+    "text": "Site"
   },
   {
     "objectID": "about.html#sobre-o-projeto",
@@ -33,5 +33,12 @@
     "title": "Sobre o Projeto",
     "section": "",
     "text": "Este é um site para compartilhar informações sobre nosso projeto em andamento.\n\n\n\n[Objetivo 1]\n[Objetivo 2]\n[Objetivo 3]\n\n\n\n\nPara mais informações sobre este projeto, entre em contato conosco através do GitHub."
+  },
+  {
+    "objectID": "index.html#bem-vindo-ao-nosso-projeto",
+    "href": "index.html#bem-vindo-ao-nosso-projeto",
+    "title": "Projeto",
+    "section": "",
+    "text": "Este é um site simples sobre nosso projeto em andamento.\n\n\nNosso projeto tem como objetivo [descreva os objetivos do seu projeto aqui]. Estamos documentando nossa jornada e compartilhando nosso progresso regularmente.\n\n\n\n\nJoão Victor - [Função/Responsabilidade]\nMarcelo - [Função/Responsabilidade]"
   }
 ]
