@@ -1,5 +1,9 @@
 ---
 title: "Projeto"
+execute:
+  echo: true   # Exibe o código no resultado final
+  results: "markup"  # Exibe os resultados do código (como gráficos ou tabelas)
+output: html_document
 ---
 
 ## Bem-vindo ao Nosso Projeto
@@ -15,3 +19,7 @@ Nosso projeto tem como objetivo [descreva os objetivos do seu projeto aqui]. Est
 - João Victor - [Função/Responsabilidade]
 - Marcelo - [Função/Responsabilidade]
 
+
+```{python}
+print("Hello World!")
+```

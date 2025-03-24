@@ -1,0 +1,52 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Projeto\"\n",
+        "execute:\n",
+        "  echo: true   # Exibe o código no resultado final\n",
+        "  results: \"markup\"  # Exibe os resultados do código (como gráficos ou tabelas)\n",
+        "output: html_document\n",
+        "---\n",
+        "\n",
+        "\n",
+        "## Bem-vindo ao Nosso Projeto\n",
+        "\n",
+        "Este é um site simples sobre nosso projeto em andamento.\n",
+        "\n",
+        "### Visão Geral do Projeto\n",
+        "\n",
+        "Nosso projeto tem como objetivo [descreva os objetivos do seu projeto aqui]. Estamos documentando nossa jornada e compartilhando nosso progresso regularmente.\n",
+        "\n",
+        "### Membros da Equipe\n",
+        "\n",
+        "- João Victor - [Função/Responsabilidade]\n",
+        "- Marcelo - [Função/Responsabilidade]\n"
+      ],
+      "id": "76d7e3d0"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "print(\"Hello World!\")"
+      ],
+      "id": "1d64dd1a",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\jvicv\\AppData\\Roaming\\Python\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
