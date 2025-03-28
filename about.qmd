@@ -26,7 +26,7 @@ A equipe do FinanceAI Analyzer combina expertise em ciência de dados, finanças
 
 Especialista em modelagem estatística e algoritmos preditivos aplicados ao mercado financeiro. Responsável pelo desenvolvimento dos modelos de análise e previsão do FinanceAI Analyzer.
 
-[GitHub](https://github.com/Veiga-a){target="_blank"} | [Site Pessoal](https://veiga-a.github.io/site/){target="_blank"}
+[GitHub](https://github.com/Veiga-a){target="_blank"} | [Website](https://veiga-a.github.io/site/){target="_blank"} | [Linkedin](https://www.linkedin.com/in/joao-veiga1/){target="_blank"} 
 :::
 
 ::: {.team-member}
@@ -37,7 +37,7 @@ Especialista em modelagem estatística e algoritmos preditivos aplicados ao merc
 
 Combina conhecimento em desenvolvimento de software com expertise em mercados financeiros. Lidera a implementação técnica da plataforma e a integração com APIs de dados financeiros.
 
-[GitHub](https://github.com/Marcelo816){target="_blank"} | [Site Pessoal](https://marcelo816.github.io/portifolio/){target="_blank"}
+[GitHub](https://github.com/Marcelo816){target="_blank"} | [Website](https://marcelo816.github.io/portifolio/){target="_blank"} | [Linkedin](https://www.linkedin.com/in/marcelo-augusto-capraro-filho/){target="_blank"} 
 :::
 :::
 :::
