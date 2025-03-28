@@ -1,25 +1,83 @@
 ---
-title: "Projeto"
-execute:
-  echo: true   # Exibe o código no resultado final
-  results: "markup"  # Exibe os resultados do código (como gráficos ou tabelas)
-output: html_document
+title: "FinanceAI Analyzer"
+subtitle: "Análise Estatística Avançada para Decisões Financeiras Inteligentes"
+format:
+  html:
+    css: styles.css
+    toc: true
+    toc-location: left
+    page-layout: full
+    theme: cosmo
+    code-fold: true
+    code-tools: true
 ---
 
-## Bem-vindo ao Nosso Projeto
+::: {.hero-section}
+# Bem-vindo ao FinanceAI Analyzer
 
-Este é um site simples sobre nosso projeto em andamento.
+::: {.hero-content}
+::: {.hero-text}
+## Decisões de Investimento Baseadas em Dados
 
-### Visão Geral do Projeto
+Nossa plataforma de análise estatística avançada processa dados do mercado financeiro em tempo real para fornecer recomendações precisas de investimento.
 
-Nosso projeto tem como objetivo [descreva os objetivos do seu projeto aqui]. Estamos documentando nossa jornada e compartilhando nosso progresso regularmente.
+[Saiba Mais](#saiba-mais){.btn-primary}
+:::
 
-### Membros da Equipe
+::: {.hero-image}
+![](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+:::
+:::
+:::
 
-- João Victor - [Função/Responsabilidade]
-- Marcelo - [Função/Responsabilidade]
+::: {#saiba-mais .section-container}
+## O Poder da Análise Estatística no Mercado Financeiro
 
+O FinanceAI Analyzer utiliza algoritmos avançados de aprendizado de máquina para analisar padrões históricos, tendências de mercado e indicadores econômicos. Nossa tecnologia processa milhões de pontos de dados para identificar oportunidades de investimento com o melhor equilíbrio entre risco e retorno.
 
-```{python}
-print("Hello World!")
-```
+::: {.features-grid}
+::: {.feature-card}
+### Análise Preditiva
+Algoritmos que preveem movimentos de preços com base em padrões históricos e indicadores técnicos.
+:::
+
+::: {.feature-card}
+### Gestão de Risco
+Cálculos avançados de Value at Risk (VaR) e simulações de Monte Carlo para quantificar riscos potenciais.
+:::
+
+::: {.feature-card}
+### Recomendações em Tempo Real
+Alertas e sugestões de compra/venda baseados em análises estatísticas atualizadas continuamente.
+:::
+
+::: {.feature-card}
+### Relatórios Personalizados
+Dashboards interativos que apresentam análises detalhadas adaptadas ao seu portfólio.
+:::
+:::
+:::
+
+::: {.section-container .metrics-section}
+## Resultados Comprovados
+
+Nossa plataforma tem demonstrado resultados consistentes em diferentes cenários de mercado.
+
+::: {.metrics-grid}
+::: {.metric-card}
+### 87%
+Precisão nas previsões de tendência
+:::
+
+::: {.metric-card}
+### 32%
+Redução média na volatilidade da carteira
+:::
+
+::: {.metric-card}
+### 28%
+Aumento médio no retorno anualizado
+:::
+:::
+:::
+

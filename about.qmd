@@ -1,32 +1,106 @@
 ---
 title: "Sobre o Projeto"
+subtitle: "Conheça a equipe por trás do FinanceAI Analyzer"
+format:
+  html:
+    css: styles.css
+    page-layout: full
+    theme: cosmo
 ---
 
-# Participantes
+::: {.about-header}
+# Nossa Equipe
 
-## João Victor  
-<a href="https://github.com/Veiga-a" target="_blank">
-    <img class="profile-img" src="https://github.com/Veiga-a.png" alt="João Victor">
-</a>  
-[Site](https://veiga-a.github.io/site/)
+A equipe do FinanceAI Analyzer combina expertise em ciência de dados, finanças quantitativas e desenvolvimento de software para criar uma solução inovadora para o mercado financeiro.
+:::
 
-## Marcelo  
-<a href="https://github.com/Marcelo816" target="_blank">
-    <img class="profile-img" src="https://github.com/Marcelo816.png" alt="Marcelo">
-</a>  
-[Site](https://marcelo816.github.io/portifolio/)
+::: {.team-section}
+## Especialistas em Análise Financeira e Tecnologia
 
-## Sobre o Projeto
+::: {.team-grid}
+::: {.team-member}
+![](https://github.com/Veiga-a.png){.profile-img}
 
-Este é um site para compartilhar informações sobre nosso projeto em andamento.
+### João Victor
+**Cientista de Dados & Analista Quantitativo**
+
+Especialista em modelagem estatística e algoritmos preditivos aplicados ao mercado financeiro. Responsável pelo desenvolvimento dos modelos de análise e previsão do FinanceAI Analyzer.
+
+[GitHub](https://github.com/Veiga-a){target="_blank"} | [Site Pessoal](https://veiga-a.github.io/site/){target="_blank"}
+:::
+
+::: {.team-member}
+![](https://github.com/Marcelo816.png){.profile-img}
+
+### Marcelo
+**Desenvolvedor Full-Stack & Especialista em Finanças**
+
+Combina conhecimento em desenvolvimento de software com expertise em mercados financeiros. Lidera a implementação técnica da plataforma e a integração com APIs de dados financeiros.
+
+[GitHub](https://github.com/Marcelo816){target="_blank"} | [Site Pessoal](https://marcelo816.github.io/portifolio/){target="_blank"}
+:::
+:::
+:::
+
+::: {.section-container}
+## Visão do Projeto
+
+O FinanceAI Analyzer nasceu da observação de que muitos investidores tomam decisões baseadas em emoções ou análises superficiais, resultando em retornos abaixo do ideal e exposição desnecessária a riscos.
+
+### Nossa Missão
+
+Democratizar o acesso a análises financeiras avançadas, permitindo que investidores de todos os níveis tomem decisões mais informadas e estratégicas no mercado financeiro.
 
 ### Objetivos
 
-- [Objetivo 1]
-- [Objetivo 2]
-- [Objetivo 3]
+- **Precisão Analítica**: Desenvolver modelos estatísticos com alta taxa de acerto na previsão de tendências de mercado
+- **Acessibilidade**: Criar uma interface intuitiva que traduza análises complexas em recomendações claras
+- **Educação Financeira**: Fornecer insights sobre os fundamentos por trás das recomendações, promovendo o aprendizado contínuo
+- **Adaptabilidade**: Refinar continuamente os algoritmos para se adaptarem a diferentes condições de mercado
+:::
 
-### Contato
+::: {.timeline-section}
+## Linha do Tempo do Projeto
 
-Para mais informações sobre este projeto, entre em contato conosco através do GitHub.
+::: {.timeline}
+::: {.timeline-item}
+### Fase 1: Concepção e Pesquisa
+- Definição do escopo do projeto
+- Pesquisa de mercado e análise de concorrentes
+- Seleção de metodologias estatísticas
+:::
+
+::: {.timeline-item .active}
+### Fase 2: Desenvolvimento do MVP
+- Implementação dos algoritmos core
+- Desenvolvimento da interface de usuário
+- Testes iniciais com dados históricos
+:::
+
+::: {.timeline-item}
+### Fase 3: Validação e Refinamento
+- Testes com usuários beta
+- Refinamento dos modelos baseado em feedback
+- Otimização de performance
+:::
+
+::: {.timeline-item}
+### Fase 4: Lançamento e Expansão
+- Lançamento oficial da plataforma
+- Adição de novos mercados e classes de ativos
+- Desenvolvimento de recursos avançados
+:::
+:::
+:::
+
+::: {.contact-section}
+## Entre em Contato
+
+Interessado em saber mais sobre o FinanceAI Analyzer ou em contribuir para o projeto? Entre em contato conosco.
+
+::: {.contact-methods}
+::: {.contact-method}
+### Email
+Marcelaocaprarao@gmail.com
+:::
 

@@ -3,17 +3,40 @@ project:
   output-dir: .
 
 website:
-  title: "Projeto"
+  title: "FinanceAI Analyzer"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: Início
       - href: about.qmd
         text: Sobre
+    right:
+      - icon: github
+        href: https://github.com/financeai-analyzer
+      - icon: linkedin
+        href: https://linkedin.com/company/financeai-analyzer
+  page-footer:
+    background: secondary
+    left: "© 2024 FinanceAI Analyzer. Todos os direitos reservados."
+    right:
+      - icon: github
+        href: https://github.com/financeai-analyzer
+      - icon: linkedin
+        href: https://linkedin.com/company/financeai-analyzer
 
 format:
   html:
     theme: cosmo
     css: styles.css
+    toc: true
     lang: pt-BR
-
+    smooth-scroll: true
+    fontsize: 1.1em
+    linestretch: 1.7
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
