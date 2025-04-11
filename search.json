@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "FinanceAI Analyzer",
+    "section": "",
+    "text": "Nossa plataforma de análise estatística avançada processa dados do mercado financeiro em tempo real para fornecer recomendações precisas de investimento.\nSaiba Mais"
+  },
+  {
+    "objectID": "index.html#decisões-de-investimento-baseadas-em-dados",
+    "href": "index.html#decisões-de-investimento-baseadas-em-dados",
+    "title": "FinanceAI Analyzer",
+    "section": "",
+    "text": "Nossa plataforma de análise estatística avançada processa dados do mercado financeiro em tempo real para fornecer recomendações precisas de investimento.\nSaiba Mais"
+  },
+  {
+    "objectID": "index.html#o-poder-da-análise-estatística-no-mercado-financeiro",
+    "href": "index.html#o-poder-da-análise-estatística-no-mercado-financeiro",
+    "title": "FinanceAI Analyzer",
+    "section": "O Poder da Análise Estatística no Mercado Financeiro",
+    "text": "O Poder da Análise Estatística no Mercado Financeiro\nO FinanceAI Analyzer utiliza algoritmos avançados de aprendizado de máquina para analisar padrões históricos, tendências de mercado e indicadores econômicos. Nossa tecnologia processa milhões de pontos de dados para identificar oportunidades de investimento com o melhor equilíbrio entre risco e retorno.\n\n\nAnálise Preditiva\nAlgoritmos que preveem movimentos de preços com base em padrões históricos e indicadores técnicos.\n\n\nGestão de Risco\nCálculos avançados de Value at Risk (VaR) e simulações de Monte Carlo para quantificar riscos potenciais.\n\n\nRecomendações em Tempo Real\nAlertas e sugestões de compra/venda baseados em análises estatísticas atualizadas continuamente.\n\n\nRelatórios Personalizados\nDashboards interativos que apresentam análises detalhadas adaptadas ao seu portfólio."
+  },
+  {
+    "objectID": "index.html#resultados-comprovados",
+    "href": "index.html#resultados-comprovados",
+    "title": "FinanceAI Analyzer",
+    "section": "Resultados Comprovados",
+    "text": "Resultados Comprovados\nNossa plataforma tem demonstrado resultados consistentes em diferentes cenários de mercado.\n\n\n87%\nPrecisão nas previsões de tendência\n\n\n32%\nRedução média na volatilidade da carteira\n\n\n28%\nAumento médio no retorno anualizado"
+  },
+  {
+    "objectID": "index.html#visualização-interativa-dos-dados",
+    "href": "index.html#visualização-interativa-dos-dados",
+    "title": "FinanceAI Analyzer",
+    "section": "Visualização Interativa dos Dados",
+    "text": "Visualização Interativa dos Dados\nExplore os dados históricos e os log-retornos dos ativos selecionados:\n\n📈 Preços Históricos dos Ativos\n\n\n\n\n📉 Log-Retornos dos Ativos"
+  },
+  {
+    "objectID": "index.html#tabela-de-assimetria-dos-retornos-skewness",
+    "href": "index.html#tabela-de-assimetria-dos-retornos-skewness",
+    "title": "FinanceAI Analyzer",
+    "section": "📊 Tabela de Assimetria dos Retornos (Skewness)",
+    "text": "📊 Tabela de Assimetria dos Retornos (Skewness)\nA assimetria (skewness) nos ajuda a entender se os retornos são mais frequentes à direita (positivos) ou à esquerda (negativos)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre o Projeto",
+    "section": "",
+    "text": "A equipe do FinanceAI Analyzer combina expertise em ciência de dados, finanças quantitativas e desenvolvimento de software para criar uma solução inovadora para o mercado financeiro."
+  },
+  {
+    "objectID": "about.html#especialistas-em-análise-financeira-e-tecnologia",
+    "href": "about.html#especialistas-em-análise-financeira-e-tecnologia",
+    "title": "Sobre o Projeto",
+    "section": "Especialistas em Análise Financeira e Tecnologia",
+    "text": "Especialistas em Análise Financeira e Tecnologia\n\n\n\n\nJoão Victor\nCientista de Dados & Analista Quantitativo\nEspecialista em modelagem estatística e algoritmos preditivos aplicados ao mercado financeiro. Responsável pelo desenvolvimento dos modelos de análise e previsão do FinanceAI Analyzer.\nGitHub | Website | Linkedin\n\n\n\n\n\nMarcelo\nDesenvolvedor Full-Stack & Especialista em Finanças\nCombina conhecimento em desenvolvimento de software com expertise em mercados financeiros. Lidera a implementação técnica da plataforma e a integração com APIs de dados financeiros.\nGitHub | Website | Linkedin"
+  },
+  {
+    "objectID": "about.html#visão-do-projeto",
+    "href": "about.html#visão-do-projeto",
+    "title": "Sobre o Projeto",
+    "section": "Visão do Projeto",
+    "text": "Visão do Projeto\nO FinanceAI Analyzer nasceu da observação de que muitos investidores tomam decisões baseadas em emoções ou análises superficiais, resultando em retornos abaixo do ideal e exposição desnecessária a riscos.\n\nNossa Missão\nDemocratizar o acesso a análises financeiras avançadas, permitindo que investidores de todos os níveis tomem decisões mais informadas e estratégicas no mercado financeiro.\n\n\nObjetivos\n\nPrecisão Analítica: Desenvolver modelos estatísticos com alta taxa de acerto na previsão de tendências de mercado\nAcessibilidade: Criar uma interface intuitiva que traduza análises complexas em recomendações claras\nEducação Financeira: Fornecer insights sobre os fundamentos por trás das recomendações, promovendo o aprendizado contínuo\nAdaptabilidade: Refinar continuamente os algoritmos para se adaptarem a diferentes condições de mercado"
+  },
+  {
+    "objectID": "about.html#linha-do-tempo-do-projeto",
+    "href": "about.html#linha-do-tempo-do-projeto",
+    "title": "Sobre o Projeto",
+    "section": "Linha do Tempo do Projeto",
+    "text": "Linha do Tempo do Projeto\n\n\nFase 1: Concepção e Pesquisa\n\nDefinição do escopo do projeto\nPesquisa de mercado e análise de concorrentes\nSeleção de metodologias estatísticas\n\n\n\nFase 2: Desenvolvimento do MVP\n\nImplementação dos algoritmos core\nDesenvolvimento da interface de usuário\nTestes iniciais com dados históricos\n\n\n\nFase 3: Validação e Refinamento\n\nTestes com usuários beta\nRefinamento dos modelos baseado em feedback\nOtimização de performance\n\n\n\nFase 4: Lançamento e Expansão\n\nLançamento oficial da plataforma\nAdição de novos mercados e classes de ativos\nDesenvolvimento de recursos avançados"
+  },
+  {
+    "objectID": "about.html#entre-em-contato",
+    "href": "about.html#entre-em-contato",
+    "title": "Sobre o Projeto",
+    "section": "Entre em Contato",
+    "text": "Entre em Contato\nInteressado em saber mais sobre o FinanceAI Analyzer ou em contribuir para o projeto? Entre em contato conosco.\n\n\nEmail\nMarcelaocaprarao@gmail.com"
+  }
+]
