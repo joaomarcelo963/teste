@@ -81,3 +81,30 @@ Aumento médio no retorno anualizado
 :::
 :::
 
+---
+
+::: {.section-container}
+## Visualização Interativa dos Dados
+
+Explore os dados históricos e os log-retornos dos ativos selecionados:
+
+::: {.chart-container}
+### 📈 Preços Históricos dos Ativos
+<iframe src="grafico_precos.html" width="100%" height="500px" frameborder="0"></iframe>
+:::
+
+::: {.chart-container}
+### 📉 Log-Retornos dos Ativos
+<iframe src="grafico_log_retornos.html" width="100%" height="500px" frameborder="0"></iframe>
+:::
+:::
+
+---
+
+::: {.section-container}
+## 📊 Tabela de Assimetria dos Retornos (Skewness)
+
+A assimetria (skewness) nos ajuda a entender se os retornos são mais frequentes à direita (positivos) ou à esquerda (negativos).
+
+<iframe src="tabela_assimetria.html" width="100%" height="300px" frameborder="0"></iframe>
+:::
