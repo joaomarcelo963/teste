@@ -58,29 +58,7 @@ Dashboards interativos que apresentam análises detalhadas adaptadas ao seu port
 :::
 :::
 
-::: {.section-container .metrics-section}
-## Resultados Comprovados
-
-Nossa plataforma tem demonstrado resultados consistentes em diferentes cenários de mercado.
-
-::: {.metrics-grid}
-::: {.metric-card}
-### 87%
-Precisão nas previsões de tendência
-:::
-
-::: {.metric-card}
-### 32%
-Redução média na volatilidade da carteira
-:::
-
-::: {.metric-card}
-### 28%
-Aumento médio no retorno anualizado
-:::
-:::
-:::
-
+::: {#saiba-mais .section-container}
 ## Gráficos
 
 ::: {.figure}
@@ -93,7 +71,7 @@ Aumento médio no retorno anualizado
 ::: {.figure}
 ![](images/2.png)
 
--	**Média Próxima de Zero:** A média dos log-retornos é próxima de zero para todos os ativos, indicando que, em média, não houve ganhos ou perdas significativas.
+- **Média Próxima de Zero:** A média dos log-retornos é próxima de zero para todos os ativos, indicando que, em média, não houve ganhos ou perdas significativas.
 - **PBR Destaca-se:** PBR exibe a maior volatilidade nos log-retornos, com flutuações mais intensas
 
 :::
@@ -122,9 +100,12 @@ Aumento médio no retorno anualizado
 - **Padrões Sincronizados:** Os padrões de volatilidade são sincronizados entre os ativos, indicando influência de fatores de mercado comuns.
 
 :::
+:::
 
+::: {#saiba-mais .section-container}
 ## Conclusão
 
 - **Risco e Retorno:** PBR apresenta o maior risco (volatilidade) e potencial de retorno. Os demais ativos (BLK, JPM, AAPL, XOM) exibem menor risco e retornos mais estáveis.
 - **Diversificação Limitada:** A volatilidade compartilhada entre os ativos sugere que eles não oferecem diversificação significativa.
 - **Decisões de Investimento:** Investidores devem considerar a volatilidade, a assimetria dos retornos e a probabilidade de eventos extremos ao tomar decisões de investimento.
+:::
