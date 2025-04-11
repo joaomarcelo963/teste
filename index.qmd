@@ -81,3 +81,50 @@ Aumento médio no retorno anualizado
 :::
 :::
 
+## Gráficos
+
+::: {.figure}
+![](images/1.png)
+
+- **Tendência de Alta:** Todos os ativos exibem uma tendência de alta geral, indicando um crescimento no valor ao longo do período analisado.
+- A BLK é dominante em questão de valor comparada as outras empresas.
+:::
+
+::: {.figure}
+![](images/2.png)
+
+-	**Média Próxima de Zero:** A média dos log-retornos é próxima de zero para todos os ativos, indicando que, em média, não houve ganhos ou perdas significativas.
+- **PBR Destaca-se:** PBR exibe a maior volatilidade nos log-retornos, com flutuações mais intensas
+
+:::
+
+::: {.figure}
+![](images/3.png)
+
+- **Assimetria Positiva:** A maioria dos ativos (AAPL, BLK, JPM, XOM) apresenta skewness positivo, indicando uma pequena probabilidade de retornos extremos positivos. JPM possui a maior assimetria positiva.
+- **Assimetria Negativa:** PBR é o único ativo com skewness negativo, sugerindo uma maior probabilidade de retornos extremos negativos.
+:::
+
+::: {.figure}
+![](images/4.png)
+
+- **Distribuição Próxima da Normal:** Os histogramas mostram que a distribuição dos log-retornos se aproxima da normal para todos os ativos, mas com caudas mais pesadas (leptocurtose).
+- **Média Centralizada:** A média dos log-retornos está centralizada em torno de zero para todos os ativos.
+- **Simetria:** As distribuições são aproximadamente simétricas, indicando que a probabilidade de ganhos e perdas extremos é semelhante.
+
+:::
+
+::: {.figure}
+![](images/5.png)
+
+- **Volatilidade Variável:** A volatilidade dos ativos varia ao longo do tempo, com períodos de alta e baixa volatilidade.
+- **PBR Volátil:** PBR exibe picos de volatilidade mais intensos em comparação com os outros ativos.
+- **Padrões Sincronizados:** Os padrões de volatilidade são sincronizados entre os ativos, indicando influência de fatores de mercado comuns.
+
+:::
+
+## Conclusão
+
+- **Risco e Retorno:** PBR apresenta o maior risco (volatilidade) e potencial de retorno. Os demais ativos (BLK, JPM, AAPL, XOM) exibem menor risco e retornos mais estáveis.
+- **Diversificação Limitada:** A volatilidade compartilhada entre os ativos sugere que eles não oferecem diversificação significativa.
+- **Decisões de Investimento:** Investidores devem considerar a volatilidade, a assimetria dos retornos e a probabilidade de eventos extremos ao tomar decisões de investimento.

@@ -61,5 +61,19 @@
     "title": "Sobre o Projeto",
     "section": "Entre em Contato",
     "text": "Entre em Contato\nInteressado em saber mais sobre o FinanceAI Analyzer ou em contribuir para o projeto? Entre em contato conosco.\n\n\nEmail\nMarcelaocaprarao@gmail.com"
+  },
+  {
+    "objectID": "index.html#gráficos",
+    "href": "index.html#gráficos",
+    "title": "FinanceAI Analyzer",
+    "section": "Gráficos",
+    "text": "Gráficos\n\n\n\nTendência de Alta: Todos os ativos exibem uma tendência de alta geral, indicando um crescimento no valor ao longo do período analisado.\nA BLK é dominante em questão de valor comparada as outras empresas.\n\n\n\n\n\nMédia Próxima de Zero: A média dos log-retornos é próxima de zero para todos os ativos, indicando que, em média, não houve ganhos ou perdas significativas.\nPBR Destaca-se: PBR exibe a maior volatilidade nos log-retornos, com flutuações mais intensas\n\n\n\n\n\nAssimetria Positiva: A maioria dos ativos (AAPL, BLK, JPM, XOM) apresenta skewness positivo, indicando uma pequena probabilidade de retornos extremos positivos. JPM possui a maior assimetria positiva.\nAssimetria Negativa: PBR é o único ativo com skewness negativo, sugerindo uma maior probabilidade de retornos extremos negativos.\n\n\n\n\n\nDistribuição Próxima da Normal: Os histogramas mostram que a distribuição dos log-retornos se aproxima da normal para todos os ativos, mas com caudas mais pesadas (leptocurtose).\nMédia Centralizada: A média dos log-retornos está centralizada em torno de zero para todos os ativos.\nSimetria: As distribuições são aproximadamente simétricas, indicando que a probabilidade de ganhos e perdas extremos é semelhante.\n\n\n\n\n\nVolatilidade Variável: A volatilidade dos ativos varia ao longo do tempo, com períodos de alta e baixa volatilidade.\nPBR Volátil: PBR exibe picos de volatilidade mais intensos em comparação com os outros ativos.\nPadrões Sincronizados: Os padrões de volatilidade são sincronizados entre os ativos, indicando influência de fatores de mercado comuns."
+  },
+  {
+    "objectID": "index.html#conclusão",
+    "href": "index.html#conclusão",
+    "title": "FinanceAI Analyzer",
+    "section": "Conclusão",
+    "text": "Conclusão\n\nRisco e Retorno: PBR apresenta o maior risco (volatilidade) e potencial de retorno. Os demais ativos (BLK, JPM, AAPL, XOM) exibem menor risco e retornos mais estáveis.\nDiversificação Limitada: A volatilidade compartilhada entre os ativos sugere que eles não oferecem diversificação significativa.\nDecisões de Investimento: Investidores devem considerar a volatilidade, a assimetria dos retornos e a probabilidade de eventos extremos ao tomar decisões de investimento."
   }
 ]
