@@ -92,7 +92,6 @@ Democratizar o acesso a análises financeiras avançadas, permitindo que investi
 :::
 :::
 :::
-
 ::: {.contact-section}
 ## Entre em Contato
 
@@ -103,4 +102,5 @@ Interessado em saber mais sobre o FinanceAI Analyzer ou em contribuir para o pro
 ### Email
 Marcelaocaprarao@gmail.com
 :::
-
+:::
+:::

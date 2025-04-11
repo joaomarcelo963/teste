@@ -28,6 +28,20 @@
     "text": "Resultados Comprovados\nNossa plataforma tem demonstrado resultados consistentes em diferentes cenários de mercado.\n\n\n87%\nPrecisão nas previsões de tendência\n\n\n32%\nRedução média na volatilidade da carteira\n\n\n28%\nAumento médio no retorno anualizado"
   },
   {
+    "objectID": "index.html#visualização-interativa-dos-dados",
+    "href": "index.html#visualização-interativa-dos-dados",
+    "title": "FinanceAI Analyzer",
+    "section": "Visualização Interativa dos Dados",
+    "text": "Visualização Interativa dos Dados\nExplore os dados históricos e os log-retornos dos ativos selecionados:\n\n📈 Preços Históricos dos Ativos\n\n\n\n\n📉 Log-Retornos dos Ativos"
+  },
+  {
+    "objectID": "index.html#tabela-de-assimetria-dos-retornos-skewness",
+    "href": "index.html#tabela-de-assimetria-dos-retornos-skewness",
+    "title": "FinanceAI Analyzer",
+    "section": "📊 Tabela de Assimetria dos Retornos (Skewness)",
+    "text": "📊 Tabela de Assimetria dos Retornos (Skewness)\nA assimetria (skewness) nos ajuda a entender se os retornos são mais frequentes à direita (positivos) ou à esquerda (negativos)."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Sobre o Projeto",
