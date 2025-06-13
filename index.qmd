@@ -64,48 +64,78 @@ Dashboards interativos que apresentam análises detalhadas adaptadas ao seu port
 ::: {.figure}
 ![](images/1.png)
 
-- **Tendência de Alta:** Todos os ativos exibem uma tendência de alta geral, indicando um crescimento no valor ao longo do período analisado.
-- A BLK é dominante em questão de valor comparada as outras empresas.
 :::
 
 ::: {.figure}
 ![](images/2.png)
 
-- **Média Próxima de Zero:** A média dos log-retornos é próxima de zero para todos os ativos, indicando que, em média, não houve ganhos ou perdas significativas.
-- **PBR Destaca-se:** PBR exibe a maior volatilidade nos log-retornos, com flutuações mais intensas
+Métricas de backtest para BLK (horizon=30 days): MAE=35.52, MAPE=4.88%  
+Recomendação: Comprar BLK em 2025-06-16 e vender em 2025-07-12.  
+  - **Valor de compra:** 988.65  
+  - **Valor de venda:** 1029.41  
+  - **Lucro estimado:** 40.76  
 
 :::
 
 ::: {.figure}
 ![](images/3.png)
 
-- **Assimetria Positiva:** A maioria dos ativos (AAPL, BLK, JPM, XOM) apresenta skewness positivo, indicando uma pequena probabilidade de retornos extremos positivos. JPM possui a maior assimetria positiva.
-- **Assimetria Negativa:** PBR é o único ativo com skewness negativo, sugerindo uma maior probabilidade de retornos extremos negativos.
 :::
 
 ::: {.figure}
 ![](images/4.png)
 
-- **Distribuição Próxima da Normal:** Os histogramas mostram que a distribuição dos log-retornos se aproxima da normal para todos os ativos, mas com caudas mais pesadas (leptocurtose).
-- **Média Centralizada:** A média dos log-retornos está centralizada em torno de zero para todos os ativos.
-- **Simetria:** As distribuições são aproximadamente simétricas, indicando que a probabilidade de ganhos e perdas extremos é semelhante.
+Métricas de backtest para PBR (horizon=30 days): MAE=1.72, MAPE=17.65%  
+Recomendação: Comprar PBR em 2025-07-11 e vender em 2025-06-15.  
+  - **Valor de compra:** 11.87  
+  - **Valor de venda:** 12.89  
+  - **Lucro estimado:** 1.02  
 
 :::
 
 ::: {.figure}
 ![](images/5.png)
 
-- **Volatilidade Variável:** A volatilidade dos ativos varia ao longo do tempo, com períodos de alta e baixa volatilidade.
-- **PBR Volátil:** PBR exibe picos de volatilidade mais intensos em comparação com os outros ativos.
-- **Padrões Sincronizados:** Os padrões de volatilidade são sincronizados entre os ativos, indicando influência de fatores de mercado comuns.
-
-:::
 :::
 
-::: {#saiba-mais .section-container}
-## Conclusão
+::: {.figure}
+![](images/6.png)
 
-- **Risco e Retorno:** PBR apresenta o maior risco (volatilidade) e potencial de retorno. Os demais ativos (BLK, JPM, AAPL, XOM) exibem menor risco e retornos mais estáveis.
-- **Diversificação Limitada:** A volatilidade compartilhada entre os ativos sugere que eles não oferecem diversificação significativa.
-- **Decisões de Investimento:** Investidores devem considerar a volatilidade, a assimetria dos retornos e a probabilidade de eventos extremos ao tomar decisões de investimento.
+Métricas de backtest para XOM (horizon=30 days): MAE=5.96, MAPE=6.15%  
+Recomendação: Comprar XOM em 2025-07-10 e vender em 2025-06-14.  
+  - **Valor de compra:** 105.36  
+  - **Valor de venda:** 112.93  
+  - **Lucro estimado:** 7.57  
+
+:::
+
+::: {.figure}
+![](images/7.png)
+
+
+:::
+
+::: {.figure}
+![](images/8.png)
+
+Métricas de backtest para JPM (horizon=30 days): MAE=5.95, MAPE=3.63%  
+Recomendação: Comprar JPM em 2025-06-23 e vender em 2025-07-12.  
+  - **Valor de compra:** 259.39  
+  - **Valor de venda:** 273.13  
+  - **Lucro estimado:** 13.74  
+:::
+
+::: {.figure}
+![](images/9.png)
+
+:::
+
+::: {.figure}
+![](images/10.png)
+
+Métricas de backtest para AAPL (horizon=30 days): MAE=19.70, MAPE=10.91%  
+Recomendação: Comprar AAPL em 2025-06-13 e vender em 2025-07-12.  
+- **Valor de compra:** 223.86  
+- **Valor de venda:** 243.17  
+- **Lucro estimado:** 19.31
 :::
